@@ -17,5 +17,3 @@ function on_device_orientation(evt)
   context.beginPath();
   context.fillRect(180, 150, evt.gamma, 50);
 }
-
-
