@@ -1,0 +1,1 @@
+# PDM_TemaLaborator2_unghi_gamma
